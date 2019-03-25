@@ -3,3 +3,5 @@ source py3.5/bin/activate
 
 pip install 'numpy==1.12.1' -i https://pypi.python.org/simple/
 pip install -r requirements.txt -i https://pypi.python.org/simple/
+
+# mirror in China : https://pypi.tuna.tsinghua.edu.cn/simple
